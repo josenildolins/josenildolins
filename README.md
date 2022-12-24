@@ -5,6 +5,6 @@ Welcome to Josenildo's Lins GitHub Profile 👋
 
 
 - 🔭 I’m currently working on .NET technologies
-- 🌱 I’m currently learning Microservices
+- 🌱 I’m currently learning Angular,Java,JavaScript
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: I love playing keyboard, I love watching movies, and I love playing pretend game with my son
